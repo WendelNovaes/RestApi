@@ -1,6 +1,6 @@
 # RestApi #
 
-## ReRest api com python e flask ##
+## Rest api com python e flask ##
 
 + Método GET
 + Método POST
