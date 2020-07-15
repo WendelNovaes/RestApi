@@ -1,13 +1,14 @@
-# RestApi
- ReRest api com python e flask
+# RestApi #
 
-Método GET
-Método POST
-Método PUT
-Método DELETE
+## ReRest api com python e flask ##
 
-API REST PARA 
-\n  CONSULTAS 
-\n INSERÇÕES
-\n ATUALIZAÇÃO
-\n EXCLUSÕES
++ Método GET
++ Método POST
++ Método PUT
++ Método DELETE
+
+1. API REST PARA 
+   -  CONSULTAS 
+   - INSERÇÕES
+   - ATUALIZAÇÃO
+   - EXCLUSÕES
